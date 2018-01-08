@@ -1,4 +1,4 @@
-#Crowds 
+# Crowds 
 
 ## Understanding the Crowd
 - A brief overview of the history of crowdsourced projects. 
