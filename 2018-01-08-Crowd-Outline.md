@@ -39,7 +39,7 @@ Regarding the quality of the writing on Wikipedia pages, it is sometimes obvious
 - Emphasis the development of digital literacy. 
 - Explore some of the projects found on the [MLA Commons](https://digitalpedagogy.mla.hcommons.org/keywords/community/) and draw a connection between digital work and the development of digital communities. 
 
-## Excercise - what does it mean to write history 
+## Excercise - what does it mean to write history (consider including modifications for Ontario secondary curriculum) 
 - Visit the Wikipedia and Encyclopedia Britannica pages for the boxer Jack Johnson. 
 - Collaboratively take notes using hypothesis, focusing on the quality of writing, the depth of information provided, the topics covered, and the overal representation of the individual. 
 - Discuss what it means to write 'good' history 
