@@ -28,6 +28,9 @@ As with most great technological advancements, the internet has had a powerful i
  
  Returning to Amazon Mechanical Turk, it is also important to note that many labourers do not know who they are working for or how their labour or products will be used. This compartmentalization is a major component in crowdsourcing labour. When looking to complete a task that might take one person days or even weeks to complete, AMT can higher a larger work force to complete small portions of the larger job. This obviously requires a less skilled labour force and one which is willing to complete a high volume of tasks for a small profit. One of the consequences of structuring labour in this fashion is that traditional credentials and knowledge gets devalued in place of cheap and efficient crowdsourcing. To demonstrate just how cheap this labour is, Sholz 
 
+## Academia 
+
+Approaching crowds from a slightly different angle, Avi Santo and Christopher Lucas(2009), in ‘Engaging Academic and Nonacademic Communities through Online Scholarly Work.”, discuss scholarly work and the attitutes of scholars in relation to to the public.  
 
 ## Crowdsourced Projects
 
@@ -38,7 +41,7 @@ Regarding the quality of the writing on Wikipedia pages, it is sometimes obvious
 
 2.OpenStreetMaps
 - How does it compare to Google Maps?
-- Exploration of how it capture a more human experience?
+- Exploration of how it capture a more human experience
 
 
 
